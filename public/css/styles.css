@@ -1,0 +1,46 @@
+
+body{
+    background-color: #51a387;
+    
+}
+.heading{
+    padding-top: 1%;
+    text-align: center;
+font-size: 30px;    
+font-weight : 600;
+font-size: 50px;
+color: white;
+}
+.author{
+    text-align: center;
+    color: white;
+    font-weight : 600;
+    
+}
+.circ{
+    background-color: #e4e4a3;
+    height: 475px;
+    width: 475px;
+    border-radius: 100%;
+    align-items: center;
+    
+}
+#time{
+    font-size: 60px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    
+}
+.timer{
+    transform: translateY(82%);
+    line-height: 65px;
+}
+#timer-button{
+    
+    font-size: 40px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+#setting{
+    font-size: 30px;
+}
